@@ -2,7 +2,7 @@
 - 👀 I’m interested in Security 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me 
-Discord : TwisteR__  
+Discord : __TwisteR  
 
 <!---
 TwisteRmtps/TwisteRmtps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
