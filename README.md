@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TwisteRmtps
 - 👀 I’m interested in Security 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently studying CS, currently trying to learn python 
 - 📫 How to reach me 
 Discord : __TwisteR  
 
