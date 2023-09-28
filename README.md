@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TwisteRmtps
-- 👀 I’m interested in Security 
-- 🌱 I’m currently studying CS, currently trying to learn python 
-- 📫 How to reach me 
+- 👀 I’m interested in  Bioinformatics,  Computational biology &  Security    
+- 🌱 I’m currently studying CS 
+- 📫 Reach me on 
 Discord : __TwisteR  
 
 <!---
