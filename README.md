@@ -47,7 +47,7 @@
 <ins>Editors I use</ins><br>
 
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
-[<img alt="Vim" src="https://img.shields.io/badge/-Vim-greenc?style=flat&logo=vim&logoColor=white"/>](https://www.lunarvim.org/)
+[<img alt="Vim" src="https://img.shields.io/badge/-Vim-greenc?style=flat&logo=vim&logoColor=white"/>](https://www.vim.org/)
 
 <ins>Tools 🛠️</ins><br>
 
